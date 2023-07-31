@@ -1,6 +1,6 @@
 # Hello, this is Phoenix Contaxt Smart Business GmbH
 
-![image of people having fun at work](./img.jpg)
+![image of people having fun at work](/profile/img.jpg)
 
 Hi there! We are the centre of excellence at Phoenix Contact for cloud services and data analytics in industrial
 automation. We love to create use case-oriented Smart Services to empower small and mid-sized companies to take full
