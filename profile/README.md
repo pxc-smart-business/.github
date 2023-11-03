@@ -1,4 +1,4 @@
-# Hello, this is Phoenix Contaxt Smart Business GmbH
+# Hello, this is Phoenix Contact Smart Business GmbH
 
 ![image of people having fun at work](/profile/img.jpg)
 
